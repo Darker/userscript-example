@@ -1,1 +1,1 @@
-# To install the userscript click here.
+# To install the userscript click [here](https://github.com/Darker/userscript-example/raw/master/example.user.js).

@@ -5,6 +5,8 @@
 // @include     https://example.net
 // @version     1
 // @grant       none
+// @downloadURL https://github.com/Darker/userscript-example/raw/master/example.user.js
+// @updateURL https://github.com/Darker/userscript-example/raw/master/example.user.js
 // ==/UserScript==
 
   /// code
